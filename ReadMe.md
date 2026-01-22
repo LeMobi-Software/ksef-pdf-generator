@@ -1,4 +1,4 @@
-# Biblioteka do generowania wizualizacji PDF faktur i UPO
+# REST API i usługa Docker do generowania wizualizacji PDF polskich faktur KSeF i dokumentów UPO
 
 Biblioteka do generowania wizualizacji PDF faktur oraz UPO na podstawie plików XML.  
 Obsługuje **serwer Node.js API (backend)**.
