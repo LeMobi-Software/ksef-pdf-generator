@@ -33,7 +33,7 @@ Przed rozpoczęciem upewnij się, że masz zainstalowane:
 - **Docker** (opcjonalnie, dla konteneryzacji). Pobierz z: [https://www.docker.com/](https://www.docker.com/) ### 0.2 Sklonuj repozytorium 
 
  ```bash 
- git clone https://github.com/LeMobi/ksef-pdf-generator 
+ git clone https://github.com/LeMobi-Software/ksef-pdf-generator
  cd ksef-pdf-generator
  ```
 
