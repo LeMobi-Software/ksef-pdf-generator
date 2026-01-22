@@ -447,7 +447,7 @@ ksef-pdf-generator/
 ## 📧 Kontakt i wsparcie
 
 W razie pytań lub problemów, otwórz **Issue** na GitHubie:
-[https://github.com/LeMobi-Software/ksef-pdf-generator](https://github.com/LeMobi-Software/ksef-pdf-generator/issues)
+[https://github.com/LeMobi-Software/ksef-pdf-generator/issues](https://github.com/LeMobi-Software/ksef-pdf-generator/issues)
 
 
 
