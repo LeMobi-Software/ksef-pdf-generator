@@ -1,7 +1,7 @@
 # Biblioteka do generowania wizualizacji PDF faktur i UPO
 
 Biblioteka do generowania wizualizacji PDF faktur oraz UPO na podstawie plików XML.  
-Obsługuje zarówno **aplikację webową (frontend)**, jak i **serwer Node.js API (backend)**.
+Obsługuje **serwer Node.js API (backend)**.
 
 ---
 ## 📦 Architektura projektu
